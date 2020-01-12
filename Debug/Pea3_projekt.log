@@ -1,0 +1,5 @@
+﻿  GeneticAlg.cpp
+c:\users\agata\desktop\pea3_projekt\pea3_projekt\algorithm.h(25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\agata\desktop\pea3_projekt\pea3_projekt\geneticalg.cpp(5): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\agata\desktop\pea3_projekt\pea3_projekt\geneticalg.cpp(308): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+  Pea3_projekt.vcxproj -> C:\Users\agata\Desktop\Pea3_projekt\Debug\Pea3_projekt.exe
